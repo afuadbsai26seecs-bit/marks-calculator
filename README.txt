@@ -1,1 +1,1 @@
-marks calculator project
+Marks calculator project
